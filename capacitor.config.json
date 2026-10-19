@@ -1,0 +1,6 @@
+{
+  "appId": "in.manakirana.app",
+  "appName": "Mana Kirana",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
